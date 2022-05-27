@@ -1,6 +1,6 @@
 # Deployed on netlify
 
-[react-search-coctail.netlify.app]
+[react-search-coctail.netlify.app](https://react-search-coctail.netlify.app)
 
 ## Available Scripts
 
